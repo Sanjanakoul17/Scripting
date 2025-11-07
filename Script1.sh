@@ -6,4 +6,4 @@ echo "Adding new line"
 echo "I am from Devops and cloud team"
 echo "I am testing git commands"
 echo "New change"
-ehco "Hello"
+
